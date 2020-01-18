@@ -1,4 +1,5 @@
-
+## Hyper-V EOP via hardlink
+## @decoder_it & @padovah4ck
 function Native-HardLink {
 <#
 .SYNOPSIS
